@@ -1,4 +1,5 @@
 ### Hi there 👋
+我是李迟，Late Lee。在南宁工作十年了。育有一儿一女，大锤和大妞。
 
 <!--
 **latelee/latelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
