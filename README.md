@@ -1,10 +1,11 @@
 ### Hi there 👋
 我是李迟，Late Lee。在南宁工作十年了。育有一儿一女，大锤和大妞。
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=latelee&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=latelee&show_icons=true&&count_private=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=latelee&layout=compact)](https://github.com/latelee/)
 
+powered by [https://github.com/nate-lin/github-readme-stats](https://github.com/nate-lin/github-readme-stats)
 <!--
 **latelee/latelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
