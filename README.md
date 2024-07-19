@@ -1,5 +1,5 @@
 ### Hi there 👋
-我是李迟。在广西南宁工作十年了。育有一儿一女，大锤和大妞。  
+我是李迟。在广西南宁工作十年多了。育有一儿一女，大锤和大妞。  
 I am Late Lee. work in Nanning(Guangxi, China) for 10 years, I have a boy and a girl: 大锤 and 大妞。
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=latelee&show_icons=true&count_private=true&theme=radical)
